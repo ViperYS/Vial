@@ -1,0 +1,16 @@
+{
+  "name": "Empty Vial Weights",
+  "short_name": "Vial Weights",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F6F8",
+  "theme_color": "#0E7C66",
+  "icons": [
+    {
+      "src": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
